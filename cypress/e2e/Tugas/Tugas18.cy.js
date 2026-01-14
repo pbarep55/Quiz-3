@@ -1,6 +1,6 @@
 describe('Tugas 18 - API Testing', () => {
     const authHeaders = {
-        "x-api-key": "reqres_6a967b7891b84cc2ac8a7d2afa5c880d"
+        "x-api-key": "reqres_di isi api key"
     }
 
     it('TC 001 - GET - Single User', () => {
