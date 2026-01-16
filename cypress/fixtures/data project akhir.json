@@ -1,0 +1,10 @@
+{
+    "validUsername":"Admin",
+    "validPassword":"admin123",
+    "invalidUsername":"asdf",
+    "invalidPassword":"asdf",
+    "employeeName":"Rebecca",
+    "jobTitle":"QA Engineer",
+    "location":"Texas R&D",
+    "detailEmployee":"Peter Mac Anderson"
+}
